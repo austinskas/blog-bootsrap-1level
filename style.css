@@ -1,0 +1,31 @@
+.top-stories {
+  width: 665px;
+  float: left;
+  display: block;
+  margin: 0px;
+  padding: 0px; }
+  .top-stories h3 {
+    text-align: center; }
+
+.whats-new {
+  width: 250px;
+  float: right;
+  margin: 0px;
+  padding: 0px;
+  position: relative; }
+
+img {
+  width: 100%; }
+
+article {
+  width: 327px;
+  margin: 5px;
+  padding: 0px; }
+
+body {
+  width: 950px;
+  height: 800px;
+  margin-left: 250px;
+  padding-top: 50px; }
+
+/*# sourceMappingURL=style.css.map */
