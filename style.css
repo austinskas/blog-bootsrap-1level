@@ -38,11 +38,41 @@ body {
     }
 }
 
-/* On screens that are 600px wide or less, the background color is olive */
-@media screen and (max-width: 600px) {
-    body {
-        background-color: olive;
-        color: white;
+@media screen and (max-width: 768px) {
+  .top-stories {
+    float: none;
+    width: 100%;
+  }
+
+@media screen and (max-width: 768px) {
+  .whats-new {
+    float: none;
+    width: 100%;
+  }
+
+@media screen and (max-width: 992px) {
+  .top-stories {
+    float: none;
+    width: 100%;
+  }
+
+@media screen and (max-width: 992px) {
+  .whats-new {
+    float: none;
+    width: 100%;
+  }
+
+@media screen and (min-width: 992px) {
+  .top-stories {
+    float: none;
+    width: 100%;
+  }
+
+@media screen and (min-width: 992px) {
+  .whats-new {
+    float: none;
+    width: 100%;
+  }
 
 
 /*# sourceMappingURL=style.css.map */
