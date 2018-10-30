@@ -39,13 +39,20 @@ width: 950px;
 height: 800px;
 margin-left: 250px;
 padding-top: 50px;
-
-
-
-@media only screen and (max-width: 600px) {
-    body {
-        background-color: lightblue;
-    }
-
 }
+
+@media (max-width: 1024px) {
+.top-stories {
+ max-width: 400px;
+ background-color: red;
+ float: none;
+ }
+}
+
+@media (max-width: 1024px) {
+.whats-new {
+ max-width: 400px;
+ background-color: red;
+  float: none;
+ }
 }
