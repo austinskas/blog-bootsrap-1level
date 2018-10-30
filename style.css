@@ -27,17 +27,7 @@ body {
   height: 800px;
   margin-left: 250px;
   padding-top: 50px; }
-  @media only screen and (max-width: 600px) {
-    body body {
-      background-color: lightblue; } }
-
-@media screen and (max-width: 992px) {
-    body {
-        background-color: blue;
-        color: white;
-    }
-}
-
+ 
 @media screen and (max-width: 768px) {
   .top-stories {
     float: none;
