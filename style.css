@@ -7,13 +7,6 @@
   .top-stories h3 {
     text-align: center; }
 
-.whats-new {
-  width: 250px;
-  float: right;
-  margin: 0px;
-  padding: 0px;
-  position: relative; }
-
 img {
   width: 100%; }
 
@@ -31,12 +24,10 @@ body {
 @media (max-width: 1024px) {
   .top-stories {
     max-width: 400px;
-    background-color: red;
-    float: none; } }
+    background-color: red; } }
 @media (max-width: 1024px) {
   .whats-new {
     max-width: 400px;
-    background-color: red;
-    float: none; } }
+    background-color: red; } }
 
 /*# sourceMappingURL=style.css.map */

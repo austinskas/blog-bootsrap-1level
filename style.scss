@@ -15,14 +15,7 @@
 
 }
 
-.whats-new {
-  width: 250px;
-  float:right;
-  margin: 0px;
-  padding: 0px;
-  position: relative;
 
-}
 
 img {
    width: 100%
@@ -45,14 +38,15 @@ padding-top: 50px;
 .top-stories {
  max-width: 400px;
  background-color: red;
- float: none;
- }
+
+  }
 }
 
 @media (max-width: 1024px) {
 .whats-new {
  max-width: 400px;
  background-color: red;
-  float: none;
+ 
+
  }
 }
