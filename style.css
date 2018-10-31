@@ -31,7 +31,7 @@ body {
 
 @media (max-width: 1024px) {
   .top-stories {
-    max-width: 400px; } }
+    max-width: 300px; } }
 @media (max-width: 1024px) {
   .whats-new {
     max-width: 300px;
